@@ -1,6 +1,6 @@
-[submodule "OCCukes"]
-	path = OCCukes
-	url = git@github.com:jonusx/OCCukes.git
 [submodule "OCExpectations"]
 	path = OCExpectations
 	url = git://github.com/OCCukes/OCExpectations.git
+[submodule "OCCukes"]
+	path = OCCukes
+	url = git@github.com:jonusx/OCCukes.git
